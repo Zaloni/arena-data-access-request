@@ -1,0 +1,11 @@
+target
+.classpath
+data-access-request-plugin/.settings
+servicenow-plugin/.settings
+data-access-request-plugin/*.imp
+servicenow-plugin/*.imp
+data-access-request-plugin/target
+servicenow-plugin/target
+servicenow-plugin/dependency-reduced-pom.xml
+.factorypath
+.project
